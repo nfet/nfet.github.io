@@ -28,11 +28,11 @@ University of Minnesota Institute of Technology, Minneapolis Campus
 
 ### Programming Languages
 
-- Java, Scala, Unix/Linux C/C++
+- Java, Scala, Kotlin, Unix/Linux C/C++
 
 ### Scripting, Templating, and Build Scripts
 
-- JavaScript, Node JS, Python, Lua, Perl, Unix Shell Scripts, HTML, DOS, Win32 Scripts, Maven, Gradle/Groovy, NPM and 
+- JavaScript, Typescript, Node JS, Python, Lua, Perl, Unix Shell Scripts, HTML, DOS, Win32 Scripts, Maven, Gradle/Groovy, NPM and 
 Ant Build Scripts, Spring Expression Language, FTL, Sitemesh, and Velocity Page Templates
 
 ### Database and Storage
