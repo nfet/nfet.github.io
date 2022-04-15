@@ -59,8 +59,7 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 ### Hobbies
 
 - Writing Technical Articles in [kapresoft.com](https://kapresoft.com)
-- World of Warcraft Add-on Author
-  - [ActionbarsPlus](https://www.curseforge.com/wow/addons/actionbarplus) ~ Github (https://github.com/kapresoft/wow-addon-actionbar-plus)
+- World of Warcraft Add-on Author [ActionbarsPlus](https://www.curseforge.com/wow/addons/actionbarplus) on [Github](https://github.com/kapresoft/wow-addon-actionbar-plus)
 - Playing online games (Single-Player or MMORPG)
 - Android & Chrome App Development; Raspberry Pi, Decentralized Block-chain Applications (DApps)
 
