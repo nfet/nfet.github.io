@@ -65,7 +65,7 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 # Most Recent Experience
 
-### On Sabbatical (June 2021 to Present)
+### On Sabbatical (Jun 2021 to Present)
 - An extended leave of absence to take care of loved ones during the pandemic
 
 ### Senior Software Engineer, Expedia Group, Seattle, WA (Jun 2013 to May 2021)
