@@ -58,10 +58,16 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 ### Hobbies
 
-- Android & Chrome App Development; Raspberry Pi, Decentralized Block-chain Applications (DApps)
 - Writing Technical Articles in [kapresoft.com](https://kapresoft.com)
+- World of Warcraft Add-on Author
+  - [ActionbarsPlus](https://www.curseforge.com/wow/addons/actionbarplus) ~ Github (https://github.com/kapresoft/wow-addon-actionbar-plus)
+- Playing online games (Single-Player or MMORPG)
+- Android & Chrome App Development; Raspberry Pi, Decentralized Block-chain Applications (DApps)
 
 # Most Recent Experience
+
+### On Sabbatical (June 2021 to Present)
+- An extended leave of absence to take care of loved ones during the pandemic
 
 ### Senior Software Engineer, Expedia Group, Seattle, WA (Jun 2013 to May 2021)
 
