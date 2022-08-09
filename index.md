@@ -56,13 +56,13 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 # Articles Written
 
 ### Lombok — builders and constructors
-- https://kapresoft.com/java/2021/12/27/lombok-builders-and-copy-constructors.html
+- [https://kapresoft.com/java/2021/12/27/lombok-builders-and-copy-constructors.html](https://kapresoft.com/java/2021/12/27/lombok-builders-and-copy-constructors.html)
 
 ### Spring boot — serialize immutable objects
-- https://kapresoft.com/java/2021/11/03/spring-boot-serialize-immutable-objects.html
+- [https://kapresoft.com/java/2021/11/03/spring-boot-serialize-immutable-objects.html](https://kapresoft.com/java/2021/11/03/spring-boot-serialize-immutable-objects.html)
 
 ### More technical articles at
-- https://kapresoft.com
+- [https://kapresoft.com](https://kapresoft.com)
 
 # Most Recent Experience (Past Ten Years)
 
