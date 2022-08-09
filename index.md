@@ -8,7 +8,7 @@
 
 # Expertise
 
->A highly-motivated seasoned Senior Software Engineer specializing in the design, development and support of enterprise-wide client/server systems with a focus is on agile, test-driven, XP programming practices, object-oriented, open source, and clean coding java technologies.
+>A highly motivated seasoned Senior Software Dev Engineer specializing in the design, development and support of enterprise-wide client/server systems with emphasizing test-driven, clean code, agile development practices.
 
 # Education
 B.S. Electrical Engineering (1997), Microprocessor Design
