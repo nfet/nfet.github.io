@@ -6,76 +6,133 @@
 
 <br>
 
-# PROFILE
+# Expertise
 
->A highly motivated seasoned Senior Software Engineer specializing in the design, development and support of enterprise-wide client/server systems with focus is on agile, test-driven, XP programming practices, object-oriented, open source, and clean coding java technologies.
+>A highly-motivated seasoned Senior Software Engineer specializing in the design, development and support of enterprise-wide client/server systems with a focus is on agile, test-driven, XP programming practices, object-oriented, open source, and clean coding java technologies.
 
-# EXPERIENCE (PAST TEN YEARS)
+# Education
+B.S. Electrical Engineering (1997), Microprocessor Design
+University of Minnesota Institute of Technology, Minneapolis Campus
 
-## ON SABBATICAL, BLACK DIAMOND, WA — MAY 2021 — PRESENT
+# Core Strengths
 
-An extended leave of absence to take care of loved ones during the pandemic.
+- Agile Software Development Process (Scrum & Kanban)
+- IntelliJ, Java, and Open Source Software Evangelist
+- Test Driven Development, Clean Coding & Extreme Programming Practices (Pair Programming)
+- Unified Modeling Language
+- High Performance Mission Critical Systems
+- ReSTful and SOA Services Development
+- Product Enhancement & Optimization
 
-* authored java-based technical articles — https://kapresoft.com
-* authored a world of warcraft add-on called ActionbarPlus
-  - https://www.curseforge.com/wow/addons/actionbarplus
-  - https://github.com/kapresoft/wow-addon-actionbar-plus
+# Technical Skills
 
-## Senior software dev engineer, expedia group; Seattle, wa — 2013–2021
+### Programming Languages
 
-### Loyalty Group (EG Loyalty)
-A senior member of the loyalty team leading a pod of four members responsible for the design and development of loyalty services.
-### Online Marketing Group (OMG)
-A senior member of the Expedia Online Marketing Group responsible for the architecture, design, and development of the Deep Linking Fundamentals and Marketing Portal project for affiliate partner pixels.
+- Java, Scala, Kotlin, Unix/Linux C/C++
 
-### Private Label Pages (PLP)
-A senior member of the Private Label Pages team responsible for the design and development of Expedia’s White-label Pages co-located in India and Bellevue.
-### Travel Agent Affiliate Pages (TAAP)
-A senior member of the TAAP Team responsible for the architecture, design, and development of the Expedia Travel Agent Affiliate Program
+### Scripting, Templating, and Build Scripts
 
-## Senior software engineer, Precor, inc; Woodinville, wa — 2012—2013
-A senior member of the Platform Team of 10 responsible for the architecture, design and development of the Precor Preva REST API, Preva Exerciser Website, Atlas Fitness Equipment REST API, Spring Security OAuth2 Authorization Server.
+- JavaScript, Typescript, Node JS, Python, Lua, Perl, Unix Shell Scripts, HTML, DOS, Win32 Scripts, Maven, Gradle/Groovy, NPM and 
+Ant Build Scripts, Spring Expression Language, FTL, Sitemesh, and Velocity Page Templates
 
-## Senior software engineer, Logicalis, Inc; bellevue, wa — 2012-2012
-A senior member of a remote agile project team on a Consumer Loyalty Cards Consolidation System and TheGolfWarehouse.com.
+### Database and Storage
+-  MySQL/Aurora, Microsoft SQL, Teradata, Elastic Search, DynamoDB/NoSQL, Redis, AWS S3 Storage, PostgreSQL, Oracle, IBM DB2
 
+### Operating Systems
+- Mac OS, Windows, Windows Subsystem Linux, Debian (Ubuntu, Raspbian), CentOS, Red Hat
 
--------------------------
+### Application Servers
+- Apache Tomcat, Jetty, Apache Web Server, IBM WebSphere, JBoss, Orion Server
 
-# EDUCATION
-Bachelor of Electrical Engineering (1997); Microprocessor and ASIC Design
-University of Minnesota Institute of Technology, Minneapolis
+### Java Enterprise Frameworks
+- Spring-Framework Core, Spring MVC Test, AssertJ, Scalatest, Spring ReST, Spring Boot, Spring Security with OAuth 2, 
+Apache CXF for SOAP and ReSTful services, Spring Data, Java Persistence API, Hibernate, iBatis/MyBatis, Apache Struts, 
+Jackson JSON
 
-# AREAS OF EXPERTISE
+### Version Control Systems
+- Git (Github or Bitbucket), Perforce, Subversion, CVS
 
-Scrum & Agile Methodologies, Development Lifecycle, Web Application Design & Development, Proficient Troubleshooting, Test & Intent Driven Development, Spring Framework, RESTful services, DevOps
+### Software Development Tools
+- IntelliJ IDEA, Eclipse IDE, Artifactory, Maven, Enterprise Architect, Jenkins, Team City, VMWare Server, Virtual Box, 
+Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
-# PROGRAMMING AND SCRIPTING SKILLS
-Java, Python, Lua, PERL, Bash, Zsh, JavaScript, Typescript, MS-DOS, PowerShell, Unix C/C++
+### Hobbies
 
-# SPRING FRAMEWORK
-Spring Boot, Spring REST, Spring Batch, Spring Data (JPA/Hibernate/iBatis/MyBatis), Spring Cache (Redis), Spring Security OAuth2, Spring Web MVC, Spring Test
+- Writing Technical Articles in [kapresoft.com](https://kapresoft.com)
+- World of Warcraft Add-on Author [ActionbarsPlus](https://www.curseforge.com/wow/addons/actionbarplus) on [Github](https://github.com/kapresoft/wow-addon-actionbar-plus)
+- Playing online games (Single-Player or MMORPG)
+- Android & Chrome App Development; Raspberry Pi, Decentralized Block-chain Applications (DApps)
 
-# JAVA AND WEB LIBRARIES
-Hibernate, MyBatis/iBatis, Freemarker/Velocity Templates, Sitemesh Templates Engine, Apache CXF REST and Web(SOAP) Services, Jackson XML and JSON.
+# Most Recent Experience
 
-# AMAZON WEB SERVICES
-EC2, VPC, DynamoDB, S3, Lambda, IAM, Route 53, SQS, SNS, SES, Elastic Search,  ElastiCache, Cloud Watch
+### On Sabbatical (June 2021 to Present)
+- An extended leave of absence to take care of loved ones during the pandemic
 
-# DATABASES
-DynamoDB, Redis, MySQL/Aurora, Oracle, Microsoft SQL, PostgreSQL
+### Senior Software Engineer, Expedia Group, Seattle, WA (Jun 2013 to May 2021)
 
-# SOFTWARE TOOLS
-IntelliJ Idea, Visual Studio Code, Maven, Gradle, MySQL, Apache Tomcat, Apache JMeter, AssertJ, JUnit, Artifactory, Jenkins, Team City
+### EG Loyalty (Apr 2019 to May 2021)
 
-# OTHERS
-Git, Perforce, Subversion, CVS, Docker, Apache Kafka
+>An senior member of Loyalty Team with multiple pods taking part in phases of software development life cycle (or SLDC) enabling travel to Expedia Partners
 
-# ARTICLES
+- pod leader to a team of four developers
+- senior member and architect in regular collaboration with various groups and business product owners
+- influenced pod and teams across in develpment of the loyalty travel platform
+- mentored peers on the team and help build effective agile, test-driven, and clean-coding practices
+- worked closely with principal engineers for architectural reviews and sign-off
 
-## Lombok — builders and constructors
-https://kapresoft.com/java/2021/12/27/lombok-builders-and-copy-constructors.html
-## Spring boot — serialize immutable objects
-https://kapresoft.com/java/2021/11/03/spring-boot-serialize-immutable-objects.html
-## more technical articles AT
-https://kapresoft.com
+### Partner Services / Private Label Sites (Sep 2017 to Apr 2019)
+
+>A senior member of a team responsible for the architecture and design several projects including but not limited to:
+
+- mentored engineers on the team in building technical solutions that meets business needs
+- developed a suite of server-less and UI solutions for managing partners, generating reports and delivery of 
+reports to travel loyalty partners
+- utilized latest spring framework and AWS cloud technologies
+- an influencer of clean coding and test-driven technologies
+- a java and IntelliJ enthusiast
+
+### Online Marketing Group – (Jan 2014 to Sep 2017)
+
+#### Deep Linking Fundamentals
+
+> Complete re-design of a legacy deep-linking engine to spring-framework with emphasis of test-driven development
+
+- designed and implemented a deep-linking framework and integration test framework using Spring MVC Test and AssertJ custom fluent assertions
+- incremental deployment and monitoring of the new high-traffic deep-links to production
+- coached peers and cross-teams in Test Driven Development, Clean Coding, and XP Pair Programming
+- created Chef Deployment Scripts for Continuous Integration and Deployment to AWS Environment
+- performed Scrum Agile Software Practices
+
+#### Data Analytics of Marketing Tags
+
+>Provided near-real-time and offline solutions for Marketing for the analysis of all marketing tags data across all Expedia Group pages
+
+- published tag data to Elastic Search and Kibana for near-real-time data analytics.
+- utilized AWS S3 for Apache Spark offline queries
+ 
+#### Marketing Code Generator Library (Enigma)
+
+>Worked with cross-marketing-teams (SEM and META) and provided a design for a strategy-based
+
+- A marketing code generator library to be utilized across multiple marketing teams
+- Implemented the java library using test-driven design and development
+ 
+#### Hotel Data Static Feed Re-design
+
+>Completed re-design of a batch processing of hotel static feed data for external business partners
+
+- utilized Spring Batch
+- Implemented exponential re-tries for error-free batch processing of data
+
+#### Travelocity Marketing Tags On-boarding
+
+>Collaborated with Business Marketing to on-board affiliate marketing tags
+
+- Designed, developed, tested, and deployed affiliate marketing tags to all Travelocity brand pages
+
+#### Marketing Dev Tools Chrome Extension
+
+>Developed a chrome extension on my own time for identifying, viewing, and timing marketing affiliate tags within Expedia Group sites
+
+- enabled peer developers to demonstrate, view and debug marketing tags in chrome browser
+
