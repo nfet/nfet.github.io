@@ -1,12 +1,18 @@
-## Resumé of Antonio Lagnada
+## Résumé of Antonio Lagnada
 
 |     |     |
 |-----|----:|
 | • [https://kapresoft.com](https://kapresoft.com) | • [https://www.linkedin.com/in/lagnada](https://www.linkedin.com/in/lagnada/)  |
 
-<br>
+----------------------------------------
 
-# Expertise
+### Other Formats
+- [PDF](r/Antonio_Lagnada_resume.pdf) [MD5: 554b761e0fa2828b9c788461be7da5a4]
+- [Microsoft Word Docx](Antonio_Lagnada_resume.docx) [MD5: d3607bfdfbb7cfcc3fee03109513039e]
+
+----------------------------------------
+
+# Profile
 
 >A highly-motivated seasoned Senior Software Engineer specializing in the design, development and support of enterprise-wide client/server systems with focus on agile, test-driven, XP programming practices, object-oriented, open source, and clean coding java technologies.
 
