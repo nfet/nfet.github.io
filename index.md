@@ -8,7 +8,7 @@
 
 ### Other Formats
 - [PDF](r/Antonio_Lagnada_resume.pdf) [MD5: 554b761e0fa2828b9c788461be7da5a4]
-- [Microsoft Word Docx](Antonio_Lagnada_resume.docx) [MD5: d3607bfdfbb7cfcc3fee03109513039e]
+- [Microsoft Word Docx](r/Antonio_Lagnada_resume.docx) [MD5: d3607bfdfbb7cfcc3fee03109513039e]
 
 ----------------------------------------
 
