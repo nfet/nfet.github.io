@@ -61,7 +61,7 @@ An extended leave of absence to take care of loved ones during the pandemic.
 
 ## Senior Software Engineer, Expedia Group, Seattle, WA (2013 to 2021)
 
-### Loyalty Group (EG Loyalty)
+#### Expedia Group Loyalty (EG Loyalty)
 
 - Led a team of up to five developers to design and develop innovative loyalty services, delivering exceptional customer experiences and exceeding project goals.
 - Collaborated with global loyalty groups and business product owners to drive innovation and ensure project success.
