@@ -90,3 +90,7 @@ An extended leave of absence to take care of loved ones during the pandemic.
 - Spearheaded the incremental redesign of the Travel Affiliate Program to improve performance and user experience.
 - Coached team members and cross-functional teams on test-driven development, clean coding, and agile methodologies to align technical and business objectives.
 
+## Sabbatical (May 2021 to Present)
+
+- Authored and self-published "Modern Java for Beginners: A Comprehensive Guide," available on Amazon.
+- Published Java-based technical articles to share insights and promote best practices in software development.
