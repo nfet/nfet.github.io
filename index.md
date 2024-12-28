@@ -14,15 +14,7 @@
 
 # Profile
 
-As a developer, I bring a wealth of experience and a strong skillset to your organization. With my expertise in designing and developing enterprise-wide client/server systems, I can contribute to the success of your projects.
- 
-My proficiency in Agile practices, including agile methodologies and test-driven development, ensures that I can deliver high-quality software solutions efficiently and collaboratively.
- 
-I am well-versed in leveraging the power of Spring Boot and the Spring Framework, as well as Amazon Web Services (AWS), enabling the development of highly scalable and flexible applications. My proficiency in crafting clean and maintainable code using the IntelliJ IDE ensures optimal productivity throughout the development process.
-
-I am passionate about staying up-to-date with the latest technologies and best practices, allowing me to bring innovative and effective solutions to your team. With my dedication, strong work ethic, and collaborative mindset, I am confident in my ability to make a valuable impact on your organization's development initiatives.
-
-In addition, I bring proficiency in various scripting and programming languages to the table. Beyond my expertise in Java and the Spring Framework, I am skilled in other languages that enhance my versatility as a developer. Whether it's Scala, Kotlin, Python, JavaScript, Lua or other languages, I have the adaptability to work with diverse technologies and frameworks. This breadth of knowledge allows me to approach problem-solving from different angles and find creative solutions. With my well-rounded skillset, I am ready to tackle any development challenge that comes my way.
+As a senior software developer, I bring extensive experience in designing and developing enterprise-wide client/server systems. I excel in Agile practices, including test-driven development, to deliver high-quality, scalable solutions. With expertise in Spring Boot, the Spring Framework, and AWS, I develop innovative, maintainable applications that drive business success. My adaptability across Java, Scala, Kotlin, Python, JavaScript, and other languages ensures versatile problem-solving. Dedicated to staying updated with cutting-edge technologies, I am committed to bringing a collaborative and results-driven mindset to every project.
 
 # Education
 B.S. Electrical Engineering (1997), Microprocessor Design
@@ -30,35 +22,34 @@ University of Minnesota Institute of Technology, Minneapolis Campus
 
 # Core Strengths
 
-- Agile Software Development Process (Scrum & Kanban)
-- IntelliJ, Java, and Open Source Software Evangelist
-- Test Driven Development, Clean Coding & Extreme Programming Practices (Pair Programming)
-- Unified Modeling Language
-- High Performance Mission Critical Systems
+- Core Strengths
+- Agile Software Development (Scrum & Kanban)
+- High-Performance Mission-Critical Systems Design
+- Test-Driven Development and Clean Coding Practices
 - ReSTful and SOA Services Development
-- Product Enhancement & Optimization
+- Unified Modeling Language for System Design
+- Product Optimization and Enhancement
 
 # Technical Skills
 
 ### Programming Languages
 
-- Java, Scala, Kotlin, Python, Lua, PERL, Bash, Zsh, JavaScript, Typescript, MS-DOS, PowerShell, Unix C/C++
+- Java, Scala, Kotlin, Python, JavaScript, Typescript, Unix C/C++
 
 ### Database and Storage
-- MySQL/Aurora, Microsoft SQL, Teradata, Elastic Search, DynamoDB/NoSQL, Redis, AWS S3 Storage, PostgreSQL, Oracle, IBM DB2
+- MySQL/Aurora, PostgreSQL, Oracle, DynamoDB, Redis, AWS S3, ElasticSearch
 
 ### Application Servers
-- Apache Tomcat, Jetty, Apache Web Server, IBM WebSphere, JBoss, Orion Server
+- Apache Tomcat, Jetty, IBM WebSphere, JBoss
 
 ### Java Enterprise Frameworks
-- Spring Boot, Spring-Framework Core/MVC/ReST/Batch/Data/Security, Spring MVC Test, AssertJ, Scalatest, Apache CXF for SOAP and ReSTful services, Java Persistence API, Hibernate, iBatis/MyBatis, Apache Struts, Jackson JSON
+- Spring Boot, Spring Framework (Core/MVC/ReST/Batch/Data/Security), Hibernate, iBatis/MyBatis, Jackson JSON
 
 ### Version Control Systems
-- Git (Github or Bitbucket), Perforce, Subversion, CVS
+- Git (GitHub/Bitbucket), Subversion
 
 ### Software Development Tools
-- IntelliJ IDEA, Eclipse IDE, Artifactory, Maven, Enterprise Architect, Jenkins, Team City, VMWare Server, Virtual Box, 
-Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
+- IntelliJ IDEA, Jenkins, Maven, Docker, Amazon Web Services, Jira, Confluence
 
 # Experience (Past Ten Years)
 
@@ -66,10 +57,7 @@ Docker, Docker Compose, Amazon Web Services, Trello, Jira, Confluence
 
 An extended leave of absence to take care of loved ones during the pandemic.
 - authored java-based technical articles — https://kapresoft.com
-- independently developed and authored three World of Warcraft add-ons:
-  * ActionbarPlus (https://www.curseforge.com/wow/addons/actionbarplus)
-  * ActionbarPlus-M6 (https://www.curseforge.com/wow/addons/actionbarplus-m6)
-  * Saved Dungeons & Raids (https://www.curseforge.com/wow/addons/saved-dungeons-raids)
+- self-publish Author:  Modern Java for Beginners: A Comprehensive Guide - https://amzn.to/41Sd693
 
 ## Senior Software Engineer, Expedia Group, Seattle, WA (2013 to 2021)
 
@@ -78,7 +66,7 @@ A senior member of the loyalty team leading a pod of four members responsible fo
 
 ### Loyalty Group (EG Loyalty)
 
->As a senior member of the loyalty team, I led a small but mighty pod of up to five talented individuals. We worked together to design and develop exciting loyalty services, going above and beyond to create exceptional experiences for our valued customers.
+>Led a high-performing team of up to five members to design and develop innovative loyalty services, delivering exceptional customer experiences and exceeding project goals.
 
 - led and managed a high-performing team of up to five developers as a proactive and effective pod leader.
 - took a senior role as an esteemed member and architect, actively collaborating with loyalty groups and business product owners across the globe to drive innovation and deliver successful projects.
@@ -90,9 +78,9 @@ A senior member of the loyalty team leading a pod of four members responsible fo
 
 ### Private Label Pages (PLP)
 
->As a senior member of the Private Label Pages team, I had the privilege of contributing to the design and development of Expedia's White-label Pages. This involved collaborating with a talented group of colleagues both in UK, Australia, India and Bellevue. Together, we worked diligently to create and enhance the platform, striving to provide top-notch experiences for our users.
+>As a senior member of the Private Label Pages team, I had the privilege of contributing to the design and development of Expedia White-label Pages. This involved collaborating with a talented group of colleagues both in UK, Australia, India and Bellevue. Together, we worked diligently to create and enhance the platform, striving to provide top-notch experiences for our users.
 
-- led a small team of four members and a product manager in streamlining the branding of the base Expedia site for Private Label Pages, ensuring consistency and a cohesive experience across different brand pages.
+- led a team of four members and a product manager in streamlining the branding of the base Expedia site for Private Label Pages, ensuring consistency and a cohesive experience across different brand pages.
 - mentored engineers on the team in building technical solutions that meets business needs
 - developed a suite of server-less and UI solutions for managing partners, generating reports and delivery of reports to travel loyalty partners
 - influenced clean coding and test-driven technologies
@@ -118,18 +106,3 @@ A senior member of the loyalty team leading a pod of four members responsible fo
 - incremental redesign of Expedia Group's Travel Affiliate Program
 - coached peers and cross-teams in Test Driven Development, Clean Coding, and XP Pair Programming
 
------
-
-# Articles Written
-
-#### Lombok — builders and constructors
-- https://kapresoft.com/java/2021/12/27/lombok-builders-and-copy-constructors.html
-
-#### Spring boot — serialize immutable objects
-- https://kapresoft.com/java/2021/11/03/spring-boot-serialize-immutable-objects.html
-
-#### Managing AWS CloudFront Using Spring Shell
-- http://kapresoft.com/java/2023/05/26/spring-shell-aws-cloudfront.html
-
-#### And More..
-- http://kapresoft.com
