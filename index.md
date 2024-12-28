@@ -62,47 +62,31 @@ An extended leave of absence to take care of loved ones during the pandemic.
 ## Senior Software Engineer, Expedia Group, Seattle, WA (2013 to 2021)
 
 ### Loyalty Group (EG Loyalty)
-A senior member of the loyalty team leading a pod of four members responsible for the design and development of loyalty services.
 
-### Loyalty Group (EG Loyalty)
-
->Led a high-performing team of up to five members to design and develop innovative loyalty services, delivering exceptional customer experiences and exceeding project goals.
-
-- led and managed a high-performing team of up to five developers as a proactive and effective pod leader.
-- took a senior role as an esteemed member and architect, actively collaborating with loyalty groups and business product owners across the globe to drive innovation and deliver successful projects.
-- influenced and guided pod multiple teams in developing the loyalty travel platform.
-- mentored peers on the team and help build effective agile, test-driven, and clean-coding practices
-- engaged closely with principal engineers to conduct architectural reviews and sign-off
-- collaborated with a diverse group of ten developers across various Expedia locations to develop a system for batch processing customer refunds in the form of coupons during the Covid-19 pandemic. Took a leading role in building the foundational project structure using Spring Batch.
-- conducted job interviews and screening processes to evaluate and assess potential software engineer and manager candidates.
+- Led a team of up to five developers to design and develop innovative loyalty services, delivering exceptional customer experiences and exceeding project goals.
+- Collaborated with global loyalty groups and business product owners to drive innovation and ensure project success.
+- Mentored peers in Agile, test-driven development, and clean coding practices to enhance team performance.
+- Partnered with principal engineers to conduct architectural reviews and establish robust system foundations.
+- Led the development of a batch processing system for customer refunds during the COVID-19 pandemic, leveraging Spring Batch for scalability and efficiency.
+- Participated in hiring processes, evaluating software engineer and manager candidates through interviews and screenings.
 
 ### Private Label Pages (PLP)
 
->As a senior member of the Private Label Pages team, I had the privilege of contributing to the design and development of Expedia White-label Pages. This involved collaborating with a talented group of colleagues both in UK, Australia, India and Bellevue. Together, we worked diligently to create and enhance the platform, striving to provide top-notch experiences for our users.
-
-- led a team of four members and a product manager in streamlining the branding of the base Expedia site for Private Label Pages, ensuring consistency and a cohesive experience across different brand pages.
-- mentored engineers on the team in building technical solutions that meets business needs
-- developed a suite of server-less and UI solutions for managing partners, generating reports and delivery of reports to travel loyalty partners
-- influenced clean coding and test-driven technologies
+- Directed a team of four developers and a product manager to streamline branding across Private Label Pages, ensuring a consistent and cohesive experience for different partners.
+- Collaborated with global teams to enhance the platform's usability and performance for partners in the UK, Australia, India, and Bellevue.
+- Developed serverless and UI solutions for partner management and reporting, optimizing delivery and user interaction.
+- Promoted clean coding practices and mentored team members to align technical solutions with business objectives.
 
 ### Online Marketing Group (OMG)
 
->A senior member of the Expedia Online Marketing Group responsible for the architecture, design, and development of a complete redesign of the Deep Linking Fundamentals and Marketing Portal project for affiliate partner advertisement pixels.
-
-- designed and implemented a deep-linking framework and integration test framework using Spring MVC Test and AssertJ custom fluent assertions
-- worked with cross-marketing-teams (SEM and META) and provided a design for a strategy-based
-- took a leadership role in driving the design and architecture of a strategy-based partner Java library, collaborating closely with cross-functional marketing teams (Search Engine Marketing and META). This involved providing valuable insights and actively contributing to the design process to ensure the library's effectiveness and compatibility with partner strategies.
-- provided near-real-time and offline solutions for Marketing for the analysis of all marketing tags data across all Expedia Group pages using AWS Elastic Search
-- revamped and redesigned the daily hotel static feed process for Expedia business partners, migrating the existing dot Net implementation to Spring Batch.
-- developed a chrome extension on my own time for identifying, viewing, and timing marketing affiliate tags within Expedia Group sites
-- incremental deployment and monitoring of the new high-traffic deep-links to production
-- coached peers and cross-teams in Test Driven Development, Clean Coding, and XP Pair Programming
-
+- Designed and implemented a deep-linking framework and integration test framework using Spring MVC Test and AssertJ.
+- Led the development of a strategy-based partner Java library, collaborating with cross-functional marketing teams to enhance affiliate advertisement capabilities.
+- Provided real-time and offline marketing analytics solutions using AWS ElasticSearch.
+- Migrated a daily hotel feed process from .NET to Spring Batch, improving reliability and scalability.
+- Guided peers and cross-teams in test-driven development, clean coding, and XP pair programming practices.
 
 ### Travel Agent Affiliate Pages (TAAP)
 
->As a senior member, I held a pivotal role in the architecture, design, and development of the Travel Agent Affiliate Program (TAAP). TAAP is a global program that enables travel agents to leverage the Expedia Platform as a travel agency, accessible at https://expedia.com/taap. I played a key part in shaping and implementing the program, ensuring its effectiveness and seamless integration for travel agents worldwide.
-
-- incremental redesign of Expedia Group's Travel Affiliate Program
-- coached peers and cross-teams in Test Driven Development, Clean Coding, and XP Pair Programming
+- Spearheaded the incremental redesign of the Travel Affiliate Program to improve performance and user experience.
+- Coached team members and cross-functional teams on test-driven development, clean coding, and agile methodologies to align technical and business objectives.
 
